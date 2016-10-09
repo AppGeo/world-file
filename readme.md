@@ -1,4 +1,4 @@
-# worldfile
+# world-file
 
 generate a [world file](https://en.wikipedia.org/wiki/World_file) for data if you give it the dimensions and the corner points.  Based off code by [Peter Girard](https://github.com/pgirard) translated from C#.
 

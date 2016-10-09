@@ -1,5 +1,5 @@
 {
-  "name": "worldfile",
+  "name": "world-file",
   "version": "1.0.0",
   "description": "create a world file for an image",
   "main": "index.js",
