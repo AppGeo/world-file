@@ -1,0 +1,12 @@
+{
+  "name": "worldfile",
+  "version": "1.0.0",
+  "description": "create a world file for an image",
+  "main": "index.js",
+  "keywords": [
+    "worldfile",
+    "affine",
+    "gis"
+  ],
+  "license": "MIT"
+}
